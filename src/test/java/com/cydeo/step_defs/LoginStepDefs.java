@@ -1,8 +1,8 @@
 package com.cydeo.step_defs;
 
-import com.trycloud.pages.LoginPage;
-import com.trycloud.utilities.ConfigurationReader;
-import com.trycloud.utilities.Driver;
+import com.cydeo.pages.LoginPage;
+import com.cydeo.utilites.ConfigurationReader;
+import com.cydeo.utilites.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
